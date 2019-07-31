@@ -106,7 +106,7 @@ Option B: If you wish to potentially develop functions for JEX or develop JEX it
 4. Now click the "Clone in Desktop" button to save your forked repository to your computer via the GitHub.app you installed.
 5. Import this downloaded source-code following the instructions from "Using Eclipse to run or edit/develop the JEX and JEX functions..."
 
-Follow the same steps for cloning jaywarrick/imglib2 (master), jaywarrick/imagelib2-roi (Fix.Polygon.getVertices), and jaywarrick/imagej-ops (Add-Eclosing-Circle-to-Zernik...) repositories. The repositories should be set to the branches indicated in the parantheses (use the 'master' branch of JEX).
+**Follow the same steps for cloning jaywarrick/imglib2 (master), jaywarrick/imagelib2-roi (Fix.Polygon.getVertices), and jaywarrick/imagej-ops (Add-Eclosing-Circle-to-Zernik...) repositories. The repositories should be set to the branches indicated in the parantheses (use the 'master' branch of JEX).**
 
 #### Contributing to JEX
 
